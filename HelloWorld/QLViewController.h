@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface QLViewController : UIViewController
+- (IBAction)click:(id)sender;
 
 @end
